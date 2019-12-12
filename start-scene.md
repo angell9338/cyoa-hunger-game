@@ -3,6 +3,6 @@ Now are you ready to choose.
 
 Make a choice
 
-[Run Away](run-away.md)
+[Run Away](start/run-away.md)
 
-[Grab A Weapon](grab-a-weapon)
+[Grab A Weapon](start/grab-a-weapon)
