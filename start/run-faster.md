@@ -7,3 +7,5 @@ Choose one:
 [Option 1](option1.md)
 
 [Option 2](option2.md)
+
+[Option 2](option3.md)
