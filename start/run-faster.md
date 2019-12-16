@@ -8,4 +8,4 @@ Choose one:
 
 [Option 2](option2.md)
 
-[Option 2](option3.md)
+[Option 3](option3.md)
