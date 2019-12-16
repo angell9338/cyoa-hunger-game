@@ -3,4 +3,5 @@ You have decided to run towards the middle and pick a weapon despite the chances
 Pick One: 
 
 [Bow](ran-away.md)
-[g
+
+[Sword](shot-by-arrow.md)
