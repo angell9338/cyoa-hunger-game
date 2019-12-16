@@ -5,4 +5,4 @@ Make a choice
 
 [Run Away](start/run-away.md)
 
-[Grab A Weapon](start/grab-a-weapon.md)
+[Grab A Weapon](start/choose-weapon.md)
