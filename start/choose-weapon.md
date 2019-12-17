@@ -8,6 +8,6 @@ Pick One:
 
 [Bow](ran-away.md)
 
-![sword](blue.jpg
-)
+![sword](blue.jpg)
+
 [Sword](shot-by-arrow.md)
