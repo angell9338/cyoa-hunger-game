@@ -11,3 +11,7 @@ Pick One:
 ![sword](blue.jpg)
 
 [Sword](shot-by-arrow.md)
+
+
+
+Image Credits: ShutterStock
