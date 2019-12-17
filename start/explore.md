@@ -15,4 +15,6 @@ Congradulations you have died.
 Click [here](../start-scene.md/) to restart.
 
 
-Photo Credit to: Melkor3D from ShutterStock
+Photo Credit to:
+
+https://www.tripadvisor.in/LocationPhotoDirectLink-g309284-d8325468-i205770950-Lunas_Hostel-Puerto_Jimenez_Osa_Peninsula_Province_of_Puntarenas.html

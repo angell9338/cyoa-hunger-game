@@ -1,9 +1,13 @@
 You have decided to run towards the middle and pick a weapon despite the chances of dying!
 
-![bow and arrow](bow-and-arrow.html)
+
 
 Pick One: 
 
+![bow and arrow](aaa.jpg)
+
 [Bow](ran-away.md)
 
+![sword](blue.jpg
+)
 [Sword](shot-by-arrow.md)
