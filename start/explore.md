@@ -8,7 +8,7 @@ You tried to swim away but something has tangled your left feet.
 
 Chomp Chomp! There goes your arm!
 
-![Crocodile](croc.webp)
+![Crocodile](croc.jpg)
 
 Congradulations you have died.
 
